@@ -18,7 +18,5 @@ Remote
 -git branch -d {branch name} hehe
 -git push link_repoRemote tên_Branch: push repo_local => repo_remote(các lần push sau có thể thay link_repoRemote bằng tên tự đặt băng lệnh phía dưới)
 -git remote add origin link_repoRemote
-
-
 :wq:trình Vim (mặc định của Git) khi commit xung đột giữa 2  branch
 
