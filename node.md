@@ -11,7 +11,7 @@ Conflict
 -git checkout id_commit: quay lại code commit mòng muốn
 -git checkout Tên_Branch(master): quay về banch hiện tại
 -git branch: xem branch hiện tại 
--git checkout -b {branch namegi}
+-git checkout -b {branch namegi}: Tạo mới branch
 -git merge {brand name}: gộp brand vào m master
 -git branch -d {branch name} hehe
 
